@@ -2081,8 +2081,8 @@ button:active,
 }
 
 #main>section.one {
-    background-color: #783cff;
-    opacity: 0.1;
+    background-color: #81918E;
+    background-image: url("../../images/PP.jpg");
 }
 
 #main>section.two {
