@@ -2098,11 +2098,15 @@ button:active,
 }
 
 #main>section.five {
-    background-color: #f5fafa;
+    background-color: #cacece;
 }
 
 #main>section.six {
     background-color: #e8edec;
+}
+
+#main>section.seven {
+    background-color: #c1c2c2;
 }
 
 
